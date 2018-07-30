@@ -1,0 +1,12 @@
+#index  blue_1    blue_2    green_1   green_2   red_1     red_2     type       source
+NaI     21910.00  21966.00  22040.00  22107.00  22125.00  22170.00  atomic     Frogel et al. (2001)
+FeIA    22133.00  22176.00  22251.00  22332.00  22465.00  22560.00  atomic     Silva et al. (2007)
+FeIB    22133.00  22176.00  22369.00  22435.00  22465.00  22560.00  atomic     Silva et al. (2007)
+CaI     22450.00  22560.00  22577.00  22692.00  22700.00  22720.00  atomic     Frogel et al. (2001)
+MgI     22715.00  22755.00  22790.00  22850.00  22850.00  22874.00  atomic     Silva et al. (2007)
+CO      22872.83  22925.26  22930.52  22983.22  00000.00  00000.00  molecular  Kleinmann & Hall (1986)
+
+DCOa    22460.00  22550.00  22880.00  23010.00  00000.00  00000.00  special    Marmol-Queralto et al.
+DCOb    22710.00  22770.00  22880.00  23010.00  00000.00  00000.00  special    Marmol-Queralto et al.
+
+
